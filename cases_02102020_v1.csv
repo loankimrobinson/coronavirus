@@ -1,29 +1,29 @@
 Country,Cases,Deaths,Region
-China,"59,826","1,367",Asia
-Japan,251,1,Asia
-Singapore,58,0,Asia
-Hong Kong,53,1,Asia
+China,"63,866","1,381",Asia
+Japan,259,1,Asia
+Singapore,67,0,Asia
+Hong Kong,56,1,Asia
 Thailand,33,0,Asia
 South Korea,28,0,Asia
 Malaysia,19,0,Asia
 Taiwan,18,0,Asia
-Germany,16,0,Europe
 Vietnam,16,0,Asia
-Australia,15,0,Australia/Oceania
+Germany,16,0,Europe
 United States,15,0,North America
+Australia,15,0,Australia/Oceania
 France,11,0,Europe
 Macao,10,0,Asia
 United Kingdom,9,0,Europe
 United Arab Emirates,8,0,Asia
 Canada,7,0,North America
-India,5,0,Asia
 Philippines,3,1,Asia
 Italy,3,0,Europe
+India,3,0,Asia
 Spain,2,0,Europe
 Russia,2,0,Europe
+Nepal,1,0,Asia
 Finland,1,0,Europe
 Sweden,1,0,Europe
 Sri Lanka,1,0,Asia
 Cambodia,1,0,Asia
 Belgium,1,0,Europe
-Nepal,1,0,Asia
